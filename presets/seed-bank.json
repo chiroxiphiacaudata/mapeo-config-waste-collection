@@ -1,0 +1,15 @@
+{
+    "icon": "seed",
+    "fields": [
+        "name"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "activity",
+        "activity" : "farmland"
+
+    },
+    "terms":[],
+    "name": "Banque de semences"
+}

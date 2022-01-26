@@ -1,0 +1,14 @@
+{
+    "icon": "processing-site",
+    "fields": [
+        "processing-type"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "activity"
+
+    },
+    "terms":["fish", "produits agricoles"],
+    "name": "Site de transformation des aliments"
+}

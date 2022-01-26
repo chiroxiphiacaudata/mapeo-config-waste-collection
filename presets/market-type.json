@@ -1,0 +1,6 @@
+{
+    "key": "market-type",
+    "type": "select_one",
+    "label": "Typologie de produits offerts par l'étal du marché",
+    "options": ["Poisson", "Produits agricoles", "Matières premières", "Divers"]
+}

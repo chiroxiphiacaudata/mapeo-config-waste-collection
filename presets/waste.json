@@ -1,0 +1,14 @@
+{
+    "icon": "waste",
+    "fields": [
+        "waste-type"],
+    "geometry": [
+        "point" 
+    ],
+    "tags": {
+        "type" : "impact",
+        "impact" : "threat"
+    },
+    "terms":["monitoring"],
+    "name": "Accumulation des déchets"
+}
