@@ -1,0 +1,14 @@
+{
+    "icon": "street-market",
+    "fields": [
+        "market-type"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "activity"
+
+    },
+    "terms":["market"],
+    "name": "Étalage de marché"
+}
