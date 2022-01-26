@@ -1,0 +1,6 @@
+{
+    "key": "processing-type",
+    "type": "select_one",
+    "label": "Typologie des aliments transformés",
+    "options": ["Poisson", "Produits agricoles", "Divers"]
+}

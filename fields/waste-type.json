@@ -1,0 +1,6 @@
+{
+    "key": "waste-type",
+    "type": "select_one",
+    "label": "Composition des accumulations de déchets",
+    "options": ["Plastique", "Déchets alimentaires", "Déchets non jetables", "Mixte"]
+}
