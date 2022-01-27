@@ -1,7 +1,7 @@
 {
-  "name": "mapeo-default-settings",
+  "name": "mapeo-config-waste-collection",
   "version": "1.0.0",
-  "description": "Mapeo default config (categories, icons, questions)",
+  "description": "Local config (categories, icons, questions) to collect data about waste collection",
   "dependencies": {},
   "devDependencies": {
     "mapeo-settings-builder": "^3.3.1",
